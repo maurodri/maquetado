@@ -10,10 +10,15 @@
 ```
 ## maqueta 1
 en esta imagen se muestra las diferencias de la maqueta 1:
-![image](https://user-images.githubusercontent.com/110676905/184464851-63882551-a630-41da-91a7-057d2b668ee2.png)
 
- diferenciada de:
- 
- ![image](https://user-images.githubusercontent.com/110676905/184465428-6cb5095f-ef4a-43a1-b512-1f1210974330.png)
+
+![image](https://user-images.githubusercontent.com/110676905/184465514-b255bf9f-b02e-4719-a554-db5c7f48e03a.png)
+
+diferenciado a:
+
+![image](https://user-images.githubusercontent.com/110676905/184465544-64d98f56-0629-4041-b1e9-04b1ef2ebf30.png)
+
+en donde se observa el cambio de diseño de contenedores div tal como   
+
  
 
