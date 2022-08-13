@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Ejercicio 15</title>
+  <link rel="stylesheet" href="./maquetado_css/maqueta15.css">
+</head>
+
+<body>
+    <div id="container">
+        <div id="header">
+            <h1 id="enc">2558346</h1>
+        </div>
+        <div id="nav">
+            <h2 id="men">ejercicio 15</h2>
+        </div>
+        <div id="main">
+            <h3 id="tit1">Informacion sobre el producto</h3>
+    <form action="/php/insertar_subasta.php" method="post" enctype="multipart/form-data">
+        <fieldset>
+            <legend id="tit2">Datos básicos</legend>
+            <label for="nombre" class="in1">Nombre</label><br />
+            <input type="text" name="nombre" id="nombre" size="50" maxlength="250" />
+            <br /><br />
+            <label for="descripcion" class="in1">Descripcion</label><br />
+            <textarea name="descripcion" id="descripcion" cols="40" rows="5"></textarea>
+            foto<input type="file" name="foto" />
+            <br /><br />
+            <input name="contador" type="checkbox" value="si" />Añadir contador de vistas
+        </fieldset>
+        <fieldset>
+            <legend class="in1">Datos económicos</legend>
+            <label for="Precio" class="in1">Precio</label>
+            <input type="text" size="5" id="Precio" name="Precio" />&euro;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <label for="impuestos" class="in1">Impuestos</label>
+            <select id="impuestos" name="impuestod">
+                <option value="4" class="in1">4%</option>
+                <option value="7" class="in1">7%</option>
+                <option value="16" class="in1">16%</option>
+                <option value="25" class="in1">25%</option>
+            </select>
+            <br /><br />
+            <label class="in1">Promoción</label><br />
+            <input type="radio" name="promocion" value="ninguno" checked="checked" class="in1" />ninguno<br />
+            <input type="radio" name="promocion" value="portes"  class="in1"/>Transporte gratuito<br />
+            <input type="radio" name="promocion" value="descuento"  class="in1"/>Descuento 5%
+        </fieldset>
+    </form>
+        </div>
+        <div id="footer">
+            <h1 id="pie">copyrightⒸTodos los derechos reservados ADSO</h1>
+            <p>
+                <a id="val" href="http://jigsaw.w3.org/css-validator/check/referer">
+                    <img style="border:0;width:88px;height:31px"
+                        src="http://jigsaw.w3.org/css-validator/images/vcss-blue" alt="¡CSS Válido!" />
+                </a>
+            </p>
+        </div>
+    </div>
+</body>
+
+</html>

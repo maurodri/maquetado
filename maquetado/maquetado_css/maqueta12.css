@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 1000px;
+    height: 750px;
+    background-color: #e42525;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#men{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #8506cfd8;
+    text-align: center;
+}
+
+#enc{
+    position: relative;
+    left: 425px;
+    top: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #7636ec;
+    
+}
+
+#header{
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(33, 121, 99);
+}
+
+#nav{
+    width: 1000px;
+    height: 30px;
+    background-color: rgba(101, 243, 155, 0.911);
+}
+
+#main{
+    width: 1000px;
+    height: 680px;
+    background-color: rgb(68, 221, 196);
+}
+
+
+#sub1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: #458dfa;
+}
+
+#sub2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    color: #637ceb;
+}
+
+.tex1{
+    font-weight:bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #22009b;
+    font-size: 20px;
+}
+
+.in1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #0588a8;
+}
+
+#footer{
+    width: 1000px;
+    height: 40px;
+    background-color: rgb(12, 134, 114);
+}
+
+#pie{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #08dd8bab;
+    text-align: center;
+}
+
+#val{
+    float: right;
+    position: relative;
+    top: -19px;
+   
+}
+
