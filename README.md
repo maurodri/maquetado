@@ -8,7 +8,11 @@
     objetivo>: uso de diseño HTML + css
     FECHA CREACION:12 de AGOSTO de 2022
 ```
-## maqueta 1
+## Descripcion
+En estos cambios se evidencian los archivos HTML con diferencia de diseño css donde se cambiaron valores de color espacio etc.
+https://github.com/maurodri/ejer_HTML.git 
+
+## Maqueta 1
 en esta imagen se muestra las diferencias de la maqueta 1:
 
 
@@ -28,7 +32,7 @@ en donde se observa el cambio de:
 - :heavy_check_mark: se puso copyrightⒸ
 - :heavy_check_mark: se verifico en w3c
 
- ## maqueta 2
+ ## Maqueta 2
 en esta imagen se muestra las diferencias de la maqueta 2:
 
 
@@ -50,7 +54,7 @@ en donde se observa el cambio de:
 - :heavy_check_mark: se puso copyrightⒸ
 - :heavy_check_mark: se verifico en w3c
 
- ## maqueta 3
+ ## Maqueta 3
 en esta imagen se muestra las diferencias de la maqueta 3:
 
 
@@ -72,7 +76,7 @@ en donde se observa el cambio de:
 - :heavy_check_mark: se puso copyrightⒸ
 - :heavy_check_mark: se verifico en w3c
 
- ## maqueta 4
+ ## Maqueta 4
 en esta imagen se muestra las diferencias de la maqueta 4:
 
 
@@ -97,7 +101,7 @@ en donde se observa el cambio de:
 - :heavy_check_mark: se verifico en w3c
 
  
-## maqueta 5
+## Maqueta 5
 en esta imagen se muestra las diferencias de la maqueta 5:
 
 
@@ -119,7 +123,7 @@ en donde se observa el cambio de:
 - :heavy_check_mark: se puso copyrightⒸ
 - :heavy_check_mark: se verifico en w3c
 
- ## maqueta 6
+ ## Maqueta 6
 en esta imagen se muestra las diferencias de la maqueta 6:
 
 
@@ -143,16 +147,18 @@ en donde se observa el cambio de:
 - :heavy_check_mark: se puso copyrightⒸ
 - :heavy_check_mark: se verifico en w3c
 
- ## maqueta 7
+ ## Maqueta 7
 en esta imagen se muestra las diferencias de la maqueta 7:
 
 
-![image](https://user-images.githubusercontent.com/110676905/184465918-534dd7b4-3d8f-4247-beab-d28df764ef70.png)
+![image](https://user-images.githubusercontent.com/110676905/184466449-1a4e315f-c794-43de-857f-be1faa5ec532.png)
+
 
 
 diferenciado a:
 
-![image](https://user-images.githubusercontent.com/110676905/184465979-3be83ffc-9c11-45bc-b28c-c7e17d511187.png)
+![image](https://user-images.githubusercontent.com/110676905/184466460-34c8a9a3-e87c-48e8-a7cf-501392495d15.png)
+
 
 
 en donde se observa el cambio de:
@@ -165,17 +171,19 @@ en donde se observa el cambio de:
 - :heavy_check_mark: se puso copyrightⒸ
 - :heavy_check_mark: se verifico en w3c
 
- ## maqueta 4
-en esta imagen se muestra las diferencias de la maqueta 4:
+ ## maqueta 8
+en esta imagen se muestra las diferencias de la maqueta 8:
 
 
-![image](https://user-images.githubusercontent.com/110676905/184466024-3d88c26f-7362-4b78-9612-e5695758bbb2.png)
+![image](https://user-images.githubusercontent.com/110676905/184466481-a27f91b0-7fdd-465a-85fd-3101df1e44ec.png)
+
 
 
 
 diferenciado a:
 
-![image](https://user-images.githubusercontent.com/110676905/184466045-212d24db-36f0-464a-8ca6-dd637085d332.png)
+![image](https://user-images.githubusercontent.com/110676905/184466495-4c0d8f3c-7040-4a14-ab1b-3a36433c883d.png)
+
 
 
 
