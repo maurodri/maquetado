@@ -182,7 +182,8 @@ en esta imagen se muestra las diferencias de la maqueta 8:
 
 diferenciado a:
 
-![image](https://user-images.githubusercontent.com/110676905/184466495-4c0d8f3c-7040-4a14-ab1b-3a36433c883d.png)
+![image](https://user-images.githubusercontent.com/110676905/184467165-79b0e54f-9886-4d27-98cc-f72a51ffc60d.png)
+
 
 
 
