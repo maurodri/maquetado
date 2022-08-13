@@ -171,7 +171,7 @@ en donde se observa el cambio de:
 - :heavy_check_mark: se puso copyrightⒸ
 - :heavy_check_mark: se verifico en w3c
 
- ## maqueta 8
+ ## Maqueta 8
 en esta imagen se muestra las diferencias de la maqueta 8:
 
 
@@ -197,5 +197,177 @@ en donde se observa el cambio de:
 - :heavy_check_mark: se puso copyrightⒸ
 - :heavy_check_mark: se verifico en w3c
 
+ ## Maqueta 9
+en esta imagen se muestra las diferencias de la maqueta 9:
+
+
+![image](https://user-images.githubusercontent.com/110676905/184466652-dd0ee46b-d9b2-4d56-9109-7bc3d2d84079.png)
+
+
+diferenciado a:
+
+![image](https://user-images.githubusercontent.com/110676905/184466781-6f491010-8cca-45b1-b8a7-861d82f690e2.png)
+
+
+en donde se observa el cambio de:
+- :heavy_check_mark: diseño de contenedores div 
+- :heavy_check_mark: cambio de colores
+- :heavy_check_mark: titulo de pagina 
+- :heavy_check_mark: suptitulo de pagina
+- :heavy_check_mark: se ajusto el cuerpo de pagina 
+- :heavy_check_mark: se añadio pie de pagina
+- :heavy_check_mark: se puso copyrightⒸ
+- :heavy_check_mark: se verifico en w3c
+
+ ## Maqueta 10
+en esta imagen se muestra las diferencias de la maqueta 10:
+
+
+![image](https://user-images.githubusercontent.com/110676905/184466804-d6786bab-c887-47bb-9d82-6860dd004631.png)
+
+
+
+diferenciado a:
+
+![image](https://user-images.githubusercontent.com/110676905/184466818-5bb340bd-4002-4269-9d34-165187325a1f.png)
+
+
+
+en donde se observa el cambio de:
+- :heavy_check_mark: diseño de contenedores div 
+- :heavy_check_mark: cambio de colores
+- :heavy_check_mark: titulo de pagina 
+- :heavy_check_mark: suptitulo de pagina
+- :heavy_check_mark: se ajusto el cuerpo de pagina 
+- :heavy_check_mark: se añadio pie de pagina
+- :heavy_check_mark: se puso copyrightⒸ
+- :heavy_check_mark: se verifico en w3c
+
+ ## Maqueta 11
+en esta imagen se muestra las diferencias de la maqueta 11:
+
+
+![image](https://user-images.githubusercontent.com/110676905/184466844-d804581a-caee-4a0c-819e-2f3ba656d0ec.png)
+
+
+
+diferenciado a:
+
+![image](https://user-images.githubusercontent.com/110676905/184466864-a6abaf89-e531-4e90-8a2d-94e8d4876c94.png)
+
+
+
+en donde se observa el cambio de:
+- :heavy_check_mark: diseño de contenedores div 
+- :heavy_check_mark: cambio de colores
+- :heavy_check_mark: titulo de pagina 
+- :heavy_check_mark: suptitulo de pagina
+- :heavy_check_mark: se ajusto el cuerpo de pagina 
+- :heavy_check_mark: se añadio pie de pagina
+- :heavy_check_mark: se puso copyrightⒸ
+- :heavy_check_mark: se verifico en w3c
+
+ ## Maqueta 12
+en esta imagen se muestra las diferencias de la maqueta 12:
+
+
+
+![image](https://user-images.githubusercontent.com/110676905/184466893-f2c5d148-4576-4ac4-b77e-aa1fc6da3630.png)
+
+
+
+diferenciado a:
+
+![image](https://user-images.githubusercontent.com/110676905/184466881-51f58b43-dbdc-4782-a848-8f1f3196b477.png)
+
+
+
+
+en donde se observa el cambio de:
+- :heavy_check_mark: diseño de contenedores div 
+- :heavy_check_mark: cambio de colores
+- :heavy_check_mark: titulo de pagina 
+- :heavy_check_mark: suptitulo de pagina
+- :heavy_check_mark: se ajusto el cuerpo de pagina 
+- :heavy_check_mark: se añadio pie de pagina
+- :heavy_check_mark: se puso copyrightⒸ
+- :heavy_check_mark: se verifico en w3c
+
  
+## Maqueta 13
+en esta imagen se muestra las diferencias de la maqueta 13:
+
+
+![image](https://user-images.githubusercontent.com/110676905/184466930-7c14ae09-8e48-40e1-908c-9248e46a779a.png)
+
+
+
+diferenciado a:
+
+![image](https://user-images.githubusercontent.com/110676905/184466952-42243f48-3443-4185-9c9e-5c9407ba852d.png)
+
+
+
+en donde se observa el cambio de:
+- :heavy_check_mark: diseño de contenedores div 
+- :heavy_check_mark: cambio de colores
+- :heavy_check_mark: titulo de pagina 
+- :heavy_check_mark: suptitulo de pagina
+- :heavy_check_mark: se ajusto el cuerpo de pagina 
+- :heavy_check_mark: se añadio pie de pagina
+- :heavy_check_mark: se puso copyrightⒸ
+- :heavy_check_mark: se verifico en w3c
+
+ ## Maqueta 14
+en esta imagen se muestra las diferencias de la maqueta 14:
+
+
+![image](https://user-images.githubusercontent.com/110676905/184466978-48ff855c-3140-469a-9aaa-6066560780b9.png)
+
+
+
+
+diferenciado a:
+
+![image](https://user-images.githubusercontent.com/110676905/184466991-44a1bc76-f307-4024-a748-4108fc0b98fe.png)
+
+
+
+
+en donde se observa el cambio de:
+- :heavy_check_mark: diseño de contenedores div 
+- :heavy_check_mark: cambio de colores
+- :heavy_check_mark: titulo de pagina 
+- :heavy_check_mark: suptitulo de pagina
+- :heavy_check_mark: se ajusto el cuerpo de pagina 
+- :heavy_check_mark: se añadio pie de pagina
+- :heavy_check_mark: se puso copyrightⒸ
+- :heavy_check_mark: se verifico en w3c
+
+ ## Maqueta 15
+en esta imagen se muestra las diferencias de la maqueta 15:
+
+
+![image](https://user-images.githubusercontent.com/110676905/184467013-d859354a-f26b-4224-9133-cd1f3d53434d.png)
+
+
+
+
+diferenciado a:
+
+![image](https://user-images.githubusercontent.com/110676905/184467033-3680e524-e04b-4f26-9d21-97ce449988e9.png)
+
+
+
+
+en donde se observa el cambio de:
+- :heavy_check_mark: diseño de contenedores div 
+- :heavy_check_mark: cambio de colores
+- :heavy_check_mark: titulo de pagina 
+- :heavy_check_mark: suptitulo de pagina
+- :heavy_check_mark: se ajusto el cuerpo de pagina 
+- :heavy_check_mark: se añadio pie de pagina
+- :heavy_check_mark: se puso copyrightⒸ
+- :heavy_check_mark: se verifico en w3c
+
 
