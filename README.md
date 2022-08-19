@@ -1,4 +1,4 @@
-# maquetado
+# MAQUETADO
 
 ```
     ENTIDAD: Centro de Biotecnologia Agropecuaria
