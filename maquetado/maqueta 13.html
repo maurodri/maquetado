@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Ejercicio 13</title>
+    <link rel="stylesheet" href="./maquetado_css/maqueta13.css" />
+  </head>
+
+  <body>
+    <div id="container">
+      <div id="header">
+        <h1 id="enc">2558346</h1>
+      </div>
+      <div id="nav">
+        <h2 id="men">ejercicio 13</h2>
+      </div>
+      <div id="main">
+        <form
+          action="/php/insertar_cv.php"
+          enctype="multipart/form-data"
+          id="par1"
+        >
+          nombre<br />
+          <input type="text" name="nombre" value="" size="20" maxlength="30" />
+          <br />
+          apellidos<br />
+          <input
+            type="text"
+            name="apellidos"
+            value=""
+            size="50"
+            maxlength="80"
+          />
+          <br />
+          <br />
+          contraseña<br />
+          <input type="password" name="contraseña" value="" maxlength="10" />
+          <br />
+          <br />
+          DNI<br />
+          <input type="text" name="dni" value="" size="10" maxlength="9" />
+          <br />
+          <br />
+          Sexo<br />
+          <input
+            type="radio"
+            name="sexo"
+            value="hombre"
+            checked="checked"
+          />Hombre<br />
+          <br />
+          <input type="radio" name="sexo" value="mujer" />mujer
+          <br />
+          <br /><br />
+          incluir mi foto<input type="file" name="foto" />
+          <br />
+
+          <br /><br />
+          <input
+            name="suscribir"
+            type="checkbox"
+            value="suscribir"
+            checked="checked"
+          />Susbribirme al boletin de novedades
+          <br />
+          <br /><br />
+          <input type="submit" name="enviar" value="guardad cambios" />
+          <br />
+          <input
+            type="reset"
+            name="limpiar"
+            value="borrar los datos introducidos"
+          />
+          <br />
+        </form>
+      </div>
+      <div id="footer">
+        <h1 id="pie">copyrightⒸTodos los derechos reservados ADSO</h1>
+        <p>
+          <a id="val" href="http://jigsaw.w3.org/css-validator/check/referer">
+            <img
+              style="border: 0; width: 88px; height: 31px"
+              src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+              alt="¡CSS Válido!"
+            />
+          </a>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
